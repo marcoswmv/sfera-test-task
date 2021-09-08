@@ -1,1 +1,1 @@
-# sfera-test-task
+# Sfera test task
